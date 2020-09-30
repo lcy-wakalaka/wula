@@ -20,7 +20,7 @@ const routes = [
   },
   {
     path: '/menus',
-    component: () => import('../components/Menus.vue')
+    component: () => import('../components/menu/Menus.vue')
   }
 ]
 
